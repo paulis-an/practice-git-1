@@ -2,4 +2,5 @@ My two line in project
 London is the capital of GB
 Moscow is the capital of Russia
 Paris is the capital on France
-Paris is the capital on France
+Tokio is the capital on Japan
+Minsk is the capital on Belarus
